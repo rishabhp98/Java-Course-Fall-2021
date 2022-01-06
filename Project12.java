@@ -1,5 +1,3 @@
-// James Dizikes
-// CS 1323/1324, Fall 2019
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
