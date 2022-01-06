@@ -62,9 +62,7 @@ public static int countInRange(double[] data, int lower, int upper)
    return array;
 
 }
-
-
-
+   
 public static int[] summarizeDataByHour(double[] data)
 
 {
@@ -77,9 +75,5 @@ public static int[] summarizeDataByHour(double[] data)
    }
    
    return array;
-
-
-}
-
-
+} 
 }
