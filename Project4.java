@@ -14,6 +14,7 @@ public class Project4 {
 		System.out.println("Answer yes or no to the following questions");
 
 		//First question
+		
 		System.out.println("I am losing my sense of humor.");  
 		senseofhumor = keyboard.nextLine();
 		
@@ -23,6 +24,7 @@ public class Project4 {
 		}
 	
 		//Second question
+		
 		System.out.println("I find it more and more difficult to see people socially."); 
 		peoplesocially = keyboard.nextLine();
 		
@@ -32,6 +34,7 @@ public class Project4 {
 		}
 		
 		//Third question
+		
 		System.out.println("I feel tired most of the time."); 
 		tiredmosttime = keyboard.nextLine();
 		
