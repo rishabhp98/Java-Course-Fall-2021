@@ -37,5 +37,4 @@ public class Project3 {
 	
 		System.out.println("You should purchase " + Numberofballsofsubstituteyarn + " balls of " + substitueyarnname + " instead of " + numberofballs + " balls of " + yarnname + ".");	
 	}
-
 }
