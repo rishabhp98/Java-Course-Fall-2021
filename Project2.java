@@ -1,8 +1,6 @@
 
 public class Project2 {
 	
-	//@author rishabhpandey
-	
 	public static void main(String[]args)
 
 	{
