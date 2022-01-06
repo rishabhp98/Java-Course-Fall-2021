@@ -171,9 +171,4 @@ public class Project9 {
 		// close the variable 
 		writer.close();
 	}
-	
-	
-	
-	
-
 }
